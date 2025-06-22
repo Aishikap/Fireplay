@@ -42,6 +42,12 @@ FirePlay is a prototype application that enhances the streaming experience by co
 
 ---
 
+## Dataset for Emotion detection model (CSV file to be kept in Emotion-detection/src folder)
+
+Download and use the FER-2013 CSV dataset file.
+
+---
+
 ## Installation
 
 Follow the steps below to get the application running locally:
